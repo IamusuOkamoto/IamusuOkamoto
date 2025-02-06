@@ -1,4 +1,4 @@
-Hey there! 👋 Welcome to my GitHub 🏌️‍♂️💻
+Welcome to my GitHub 🏌️‍♂️💻
 
 Who am I?
 
