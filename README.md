@@ -2,7 +2,7 @@ Welcome to my GitHub 🏌️‍♂️💻
 
 Who am I?
 
-I’m a data scientist who somehow ended up here after a psychology degree—so yes, I can probably predict your next move… or at least overfit to it.
+I’m a data scientist who somehow ended up here so yes, I can probably predict your next move… or at least overfit to it.
 
 When I’m not debugging code, I’m debugging my golf swing, optimizing both machine learning models and my short game (both are a work in progress).
 
